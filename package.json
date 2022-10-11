@@ -1,0 +1,11 @@
+{
+  "name": "nuxt-gtag",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": "https://github.com/colmer/nuxt-gtag",
+  "homepage": "https://github.com/colmer/nuxt-gtag",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js"
+}
